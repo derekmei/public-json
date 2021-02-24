@@ -1,7 +1,7 @@
 {
-  "name": "Chris Antunes",
-  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
-  "area": "Corporate",
+  "name": "Bo the Dog",
+  "imageUrl": "https://www.3playmedia.com/wp-content/uploads/Screen-Shot-2021-02-23-at-12.11.59-PM.png",
+  "area": "Our Fearless Leader",
   "profileUrl": "http://example.com/employee/profile",
   "office": "CTO office",
   "tags": "Ceo,tag1,manager,cto",
@@ -10,25 +10,97 @@
     "type": "business",
     "value": "Business first"
   },
-  "positionName": "Co-Founder ",
+  "positionName": "The Goodest Boy",
   "children": [
     {
-      "name": "Davolio Nancy",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "name": "Chris Antunes",
+      "imageUrl": "https://www.3playmedia.com/wp-content/uploads/tunes-300.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
-      "office": "CEO office",
+      "office": "Office Manager",
       "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
         "value": "Business one"
       },
-      "positionName": "CTO "
+      "positionName": "Co-Founder, Co-CEO",
+      "children": [
+        {
+          "name": "Claudia Rocha",
+          "imageUrl": "https://www.3playmedia.com/wp-content/uploads/Claudia_255by300-200x235.png",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "Office Manager",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "business",
+            "value": "Business one"
+          },
+          "positionName": "Sr. Director of Ops"
+        },
+        {
+          "name": "Matt Gay",
+          "imageUrl": "https://www.3playmedia.com/wp-content/uploads/Matt-255by300-200x235.png",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "department",
+            "value": "Finance Department"
+          },
+          "positionName": "Sr. Director of Engineering"
+        },
+        {
+          "name": "John Slocum",
+          "imageUrl": "https://www.3playmedia.com/wp-content/uploads/jslo-300-200x235.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "department",
+            "value": "Finance Department"
+          },
+          "positionName": "VP of Product"
+        },
+        {
+          "name": "Roger Zimmerman",
+          "imageUrl": "https://www.3playmedia.com/wp-content/uploads/Roger-200x235.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "department",
+            "value": "Finance Department"
+          },
+          "positionName": "Chief of Research and Development"
+        },
+        {
+          "name": "Shawn Garrett",
+          "imageUrl": "https://www.3playmedia.com/wp-content/uploads/shawn-300-200x235.png",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "department",
+            "value": "Finance Department"
+          },
+          "positionName": "CFO"
+        }
+      ]
     },
     {
-      "name": " Petra Winkler",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "name": " Josh Miller",
+      "imageUrl": "https://www.3playmedia.com/wp-content/uploads/Josh-255by300-200x235.png",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CEO office",
@@ -38,21 +110,7 @@
         "type": "department",
         "value": "Finance Department"
       },
-      "positionName": "Android Developer"
-    },
-    {
-      "name": "Martin Bein",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
-      "profileUrl": "http://example.com/employee/profile",
-      "office": "CEO office",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "department",
-        "value": "Finance Department"
-      },
-      "positionName": "Ios Developer"
+      "positionName": "Co-Founder, Co-CEO"
     }
   ]
 }
